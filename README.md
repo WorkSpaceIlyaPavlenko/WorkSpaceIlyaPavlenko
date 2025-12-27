@@ -8,7 +8,7 @@
 
 ### 🧩 Skills
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,html,css,js,go,nodejs,postgres,git,figma,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,html,css,js,go,nodejs,postgres,git,docker" />
 
 ---
 
