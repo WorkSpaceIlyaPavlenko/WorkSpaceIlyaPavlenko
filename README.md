@@ -1,7 +1,7 @@
 # 👋 Hi, my name is Ilya
 
 - 🌍 I'm based in Russia  
-- ✉️ You can contact me on [Telegram]([https://t.me/ilyapavlenko](https://t.me/pavilev))  
+- ✉️ You can contact me on [Telegram]([https://t.me/pavilev])  
 - 🧠 I'm learning Go, Node.js, and backend basics
 
 ---
