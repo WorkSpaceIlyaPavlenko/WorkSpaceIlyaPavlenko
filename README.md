@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Ilya
+# 🙂 Hi, my name is Ilya
 
 - 🌍 I'm based in Russia  
 - ✉️ You can contact me on [Telegram](https://t.me/pavilev)  
