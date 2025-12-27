@@ -12,7 +12,6 @@
 
 ---
 
-### 📊 Stats
+### 📊 LeetCode
 
-<img src="https://github-readme-stats.vercel.app/api?username=ilyapavlenko&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyapavlenko&layout=compact&theme=tokyonight&hide_title=true&hide_border=true" height="150" />
+[![LeetCode Profile](https://leetcard.jacoblin.cool/2hBCdc8Qca?theme=dark&font=JetBrains%20Mono)](https://leetcode.com/u/2hBCdc8Qca/)
