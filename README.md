@@ -1,8 +1,9 @@
 # 🙂 Hi, my name is Ilya
 
-- 🌍 I'm based in Russia  
+- 💻 I'm a frontend developer  
+- 🌍 Based in Russia  
 - ✉️ You can contact me on [Telegram](https://t.me/pavilev)  
-- 🧠 I'm learning Go, Node.js, and backend basics
+- 🧠 Learning Go, Node.js, and backend fundamentals to better understand full-stack development
 
 ---
 
