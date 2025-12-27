@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, my name is Ilya</h1>
 
-<!--
-**WorkSpaceIlyaPavlenko/WorkSpaceIlyaPavlenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 I'm a frontend & full-stack developer<br>
+  📍 Based in Russia<br>
+  ✉️ You can contact me on <a href="https://t.me/ilyapavlenko">Telegram</a><br>
+  🧠 Learning Go, Backend, and System Architecture
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,go,postgres,docker,git,figma,vscode" />
+</p>
+
+---
+
+### 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilyapavlenko&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyapavlenko&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/someusername?theme=dark&font=JetBrains%20Mono" />
+</p>
