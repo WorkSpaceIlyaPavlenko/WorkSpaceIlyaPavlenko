@@ -1,92 +1,65 @@
+<h1 align="center">👋 Hi, I'm Ilya Pavlenko</h1>
+
+<p align="center">
+  Frontend developer · Learning Go and Node.js<br>
+  Focused on UI, structure, and system design thinking<br>
+  📍 Russia | <a href="https://t.me/ilyapavlenko">Telegram</a>
+</p>
+
+---
+
 <div align="center">
 
-# 🧊 Ilya Pavlenko
-
-Frontend Developer • UI / Architecture Enthusiast  
-Learning Go & Node.js · Building things that feel alive  
-📍 Russia | [Telegram](https://t.me/ilyapavlenko)
+### 💻 About
+Minimalist by design.  
+I build clean and thoughtful interfaces, experiment with backend basics,  
+and enjoy understanding how things work under the hood.
 
 </div>
 
 ---
 
 <div align="center">
-<table>
-<tr>
 
-<!-- About -->
-<td width="320" valign="top">
+### 🧩 Tech Stack
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,html,css,js,go,nodejs,postgres,git,figma,vscode,docker" />
 
-### 💻 About Me
-I'm a frontend developer focused on clean structure and thoughtful design.  
-Learning backend (Go & Node.js) to understand how systems work end-to-end.  
-I enjoy creating smooth user experiences, modular architectures and visual balance in interfaces.
+</div>
 
-</td>
+---
 
-<!-- Stack -->
-<td width="280" valign="top" align="center">
+<div align="center">
 
-### 🧩 Stack
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,html,css,js,go,nodejs,postgres" /><br><br>
-<img src="https://skillicons.dev/icons?i=git,figma,vscode,docker" /><br>
-<sub>Frontend · Backend basics · Tools</sub>
+### 📊 Stats
+<img src="https://github-readme-stats.vercel.app/api?username=ilyapavlenko&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyapavlenko&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" height="160"/>
 
-</td>
+</div>
 
-</tr>
-<tr>
+---
 
-<!-- Stats -->
-<td width="300" valign="top" align="center">
+<div align="center">
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ilyapavlenko&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" width="300"/><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyapavlenko&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" width="300"/>
+### 🎯 Learning Focus
+Go routines · Node.js fundamentals · SQL logic ·  
+Component systems · Design structure · Clean code
 
-</td>
+</div>
 
-<!-- Focus -->
-<td width="300" valign="top">
+---
 
-### 🎯 Focus
-- Deepen backend skills (Go / Node.js)  
-- Explore design systems & component architecture  
-- Build small self-hosted tools  
-- Keep things minimal, fast and functional  
-
-</td>
-
-</tr>
-
-<tr>
-
-<!-- Contacts -->
-<td width="300" valign="top" align="center">
+<div align="center">
 
 ### 📬 Contacts
-<a href="https://t.me/ilyapavlenko">Telegram</a><br>
-<a href="mailto:your@email.com">Email</a><br>
-<a href="https://cubro-sites.ru">Portfolio</a>
+<a href="https://t.me/ilyapavlenko">Telegram</a> · 
+<a href="mailto:your@email.com">Email</a>
 
-</td>
-
-<!-- Motto -->
-<td width="300" valign="middle" align="center">
-
-### 🖤 Philosophy
-Minimalism · Structure · Curiosity  
-<sub>“Build systems that feel calm and alive.”</sub>
-
-</td>
-
-</tr>
-</table>
 </div>
 
 ---
+
 <div align="center">
 
-🧠 Crafted with patience, coffee, and TypeScript  
+🖤 minimal · structured · evolving
 
 </div>
